@@ -1,0 +1,286 @@
+
+<HTML>  
+<HEAD>
+<TITLE> Vaca Ismael 
+</TITLE>
+<body bgcolor="504F45">
+<BODY text="white">
+<H1 align=center>Autor de la pagina web</H1>
+<br><IMG width = 40% src="img tun/ecuador.gif" hspace=350>
+<BR>
+</HEAD>
+<BODY>
+<BR><B>Nombres y Apellidos:</B>Vaca Villacres Ismael Emiliano
+<BR><B>Fecha de nacimiento:</B> 08/07/2004
+<BR><B>Edad en años:</B> 16
+<BR><B>Color favorito: </B>Azul
+<BR><B>canción que le gusta:</B> Tu jardin con enanitos "Melendi"
+<BR><B>Una frase que le ayuda en su vida:</B> "Si luchas puedes perder si no luchas estas perdido"
+
+</HTML>
+<html>
+<head>
+<title>Cuerpo</title>
+</head>
+<body bgcolor="504F45">
+<BODY text="white">
+<H1 align=center>Datos importantes de la provincia de Tungurahua</H1>
+<br><IMG width = 50% src="img tun/turismo.jpg" hspace=290>
+<UL type=circle>
+<LI>Ubicada en el centro de Ecuador, en la región Andes, principalmente sobre la hoya de Patate. 
+<LI>Su capital es la ciudad de Ambato, conocida como la ciudad de las frutas y las flores, también se conoce a Ambato como la ciudad de los tres Juanes, por ser cuna de Juan León Mera, Juan Montalvo y Juan Benigno Vela.
+<LI>Cuenta con importantes elevaciones como Igualata (4 430 m), Cerro Hermoso (4 571 m), Carihuairazo (5.020 m), Sagoatoa (4.153 m) y el volcán que le da su nombre a la provincia: Tungurahua (5.016 m).
+<LI>Sus tierras son aptas para la agricultura y ganadería. Se cultiva manzanas, peras, reinaclaudias, duraznos, guaytambos, uvas, mandarinas, moras, caña de azúcar y gran variedad de granos y legumbres.
+<LI>Tungurahua, es una provincia capaz de seducir a sus visitantes con gran facilidad gracias a la variedad de atractivos turísticos.
+<LI>Baños le ofrece al turista nacional y extranjero, un sinfín de oportunidades desde una caminata de relax, paseos en caballos, hasta deportes extremos como el rafting, kayak, parapente, canopy, entre otras opciones.
+<br>
+<iframe width="560"  height="315" src="https://www.youtube.com/embed/RDbe-4Z5bvQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>	
+<html>
+<head>
+<title>Baños</title>
+<body bgcolor="504F45">
+<BODY text="white">
+</head>
+<H1 align=center>Historia</H1>
+<IMG width = 50% src="img tun/provincia.jpg" hspace=250>
+<Br>
+<Br>Fue asentamiento de la cultura Panzaleo. Los Panzaleos poblaron Tungurahua y Cotopaxi, extendiéndose hasta Carchi, y constituyeron una de las etnias más representativas de la región de la Sierra durante el período de integración regional. Antes de la conquista de los españoles, las tierras que conforman esta provincia estuvieron habitadas por los altivos Hambatus, pueblo independiente que a su vez estaba dividido en cuatro tribus: Quisapinchas, Yzambas, Guachis y Píllaros; y aunque no existieron en su territorio ciudades muy populosas, éste se caracterizó por su riqueza agrícola y la benignidad de su clima.
+En Ambato, en el edificio que actualmente funciona como Gobernación Provincial, se conformó y tuvo su sede la Segunda Convención Nacional Constituyente, realizada el 22 de junio de 1835 y presidida por José Joaquín de Olmedo. En esta carta política se estableció por primera vez el deseo de independencia total del territorio ecuatoriano, en contraposición a la Constitución de 1830, en donde se aceptaba la posibilidad de una federación en el marco de la Gran Colombia. El hecho de armas más importante que recuerda Tungurahua es la Batalla de Miñarica, que se libró en las afueras de la ciudad. El triunfo de los partidarios de Vicente Rocafuerte, comandados por Juan José Flores, resultó decisivo, y les aseguró el control de todo el territorio de Ecuador. La ciudad no fue afectada por los combates. De este suceso político existen también en la ciudad una plaza y un monumento que lo conmemoran.
+El 22 de julio de 1860 adquiere la categoría de provincia y el 21 de mayo de 1861 se crea como tal mediante decreto de la Convención Nacional.La Ley de División Territorial de Colombia del 25 de junio de 1824, la designó cantón de la provincia de Chimborazo, condición que mantuvo hasta el 3 de julio de 1860 en que se creó la provincia de Ambato, que al año siguiente fue bautizada definitivamente con el nombre del volcán que la caracteriza Tungurahua. Se designó entonces a la ciudad de Ambato como su capital. Ambato fue erigida en cantón de acuerdo con la Ley de División Territorial de Colombia del 25 de junio de 1824, expedida por el Gral. Francisco de Paula Santander, el mismo que está integrado por las parroquias rurales Ambatillo, Atahualpa (Chipzalata), Augusto N. Martínez (Mundugleo), Cunchibamba, Constantino Fernández (Cullitagua), Huachi Grande, Izamba, Juan Benigno Vela, Montalvo, Pasa, Picaigua, Pilahuín, Quisapincha, San Bartolomé, San Fernando, Santa Rosa, Totoras (Tránsito) y Unamuncho.
+</body>
+</html>	
+<html>
+
+    <head>
+        <title>Turismo</title>
+    </head>
+
+    <frameset rows="200,*200">
+        <frame id="cabecera" name="cabecera" src="cabecera.html" />
+        <frameset cols="180,*180">
+            <frame id="menu" name="menu" src="menu.html" />
+            <frame id="cuerpo"    name="cuerpo"    src="cuerpo.html" />
+        </frameset>
+
+        <noframes>
+            <body>Su navegador no soporta frames</body>
+        </noframes>
+    </frameset>
+
+</html>
+<HTML>  
+    <HEAD>
+
+       <TITLE> Turismo </TITLE>
+    </HEAD>
+	<body bgcolor="504F45">
+	<BODY text="white">
+<H1 align=center>Alternativas</H1>
+<br><IMG width = 35% src="img tun/alternativas.jpg" hspace=400>
+<br>
+<br>
+La práctica del senderismo, cabalgatas, ejercicio, avistamiento de flora y fauna nativa, paisajes, agricultura orgánica, visita a frutales, artesanía, entre otras, son algunas de las actividades que se ofertan en los nueve cantones de la provincia.
+A decir de los emprendedores y dirigentes comunitarios y turísticos de Tungurahua se tienen listos los paraderos, centros artesanales, rutas ecológicas y producción propia del lugar, para que asesorados por los guías oriundos de cada sector vivir experiencias inolvidables.
+Además, indican que cada cantón cuenta ya con locales certificados para que los visitantes puedan degustar de la gastronomía con todos los protocolos, por lo que recibieron el reconocimiento de ‘Local Bioseguro’ otorgado por el Gobierno Provincial de Tungurahua. (FCT)
+<H2>Quero espera a los visitantes:</H2>
+Un conjunto de atractivos turístico se han implementado en Quero donde los moradores y pequeños emprendedores han dispuesto los diferentes planes de reactivación para recibir a los visitantes.
+Uno de los espacios es la Hacienda Hipolonguito, ubicada en la comunidad Cruz de Mayo a 10 minutos del centro cantonal.
+Aquí se puede realizar actividades propias de hacienda, pasear en tractor, hacer cabalgatas, caminatas, camping, disfrutar del rodeo, corridas de toros y más.
+El cantón ofrece variedad de senderos, cumbres y ahora los locales con sello de local bioseguro como la cafetería Abuelo Juan.
+Es recomendable ropa abrigada, calzado cómodo y mucha energía para disfrutar.
+<H2>Senderismo en Mocha:</H2>
+La ruta empieza en el Río Mocha, a la altura del sector de Olalla, donde el turista puede apreciar vestigios del Capac Ñan y un conjunto de casas de antaño conocido con el nombre de Tambo Real.
+Luego una caminata por el sendero a orillas del río donde se  observa las cordilleras cultivadas con granos tradicionales y vegetación típica de la zona y posteriormente la formación de varias cascadas y paisajes naturales, donde se avista una variedad de aves.
+La travesía se extiende hasta las faldas del Carihuairazo y al retorno un plato típico en María Diocelina y Paradero Gastronómico la Estación, locales que cuentan ya con el sello de bioseguridad.
+<H2>Páramo y complejo lacustre en Tisaleo</H2>
+Una gran extensión de un manto verde, ecosistema páramo natural, lugares llenos de encanto que se han convertido en un verdadero atractivo turístico es lo que ofrece Tisaleo.
+Uno de ellos el ascenso al cerro Puñalica que es un volcán que se dice erupcionó hace cientos de años y hoy alberga un complejo lacustre formidable con más de 10 lagunas.
+En este ecosistema se puede encontrar más de mil 500 especies de plantas, 24 tipos de aves, un número aún no determinado de insectos, reptiles, anfibios y de igual manera mamíferos.
+<H2>Cultura y paisaje en Píllaro</H2>
+La cultura es uno de los emblemas de la ancestral ciudad de Rumiñahui, Píllaro, donde se han reconocido como locales bioseguros a Cafetería Monte Verde y Casa Cultural El Pacto, donde los visitantes pueden conocer de cerca la famosa Diablada Pillareña.
+Luego el aire libre, flora y fauna únicas esperan a los visitantes en cada sendero que existen en los páramos, uno de ellos los Llanganates, los mismos que albergan una serie de lagunas.
+En este paraje natural el turista podrá observar aves acuáticas altoandinas como fullicas, patos, zambullidores, entre otros.
+A más de la naturaleza el lugar también guarda narraciones orales y leyendas como la que cuenta que aquí se mantiene oculta la riqueza del monarca inca Rumiñahui.
+<H2>Un valle encantado, Patate:</H2>
+El ‘Valle de la eterna primavera’, considerada ya como uno de los Pueblos Mágicos del Ecuador por su oferta turística, cultura y gastronomía.
+La cascada Mundug es una de ellas y está ubicada en el caserío que lleva su mismo nombre.
+Su acceso se lo realiza a través de un sendero de tránsito peatonal por alrededor de una hora.
+Los lugareños la conocen con el nombre nativo de ‘Chorrera de Yanapanccha’ que significa ‘Chorro Negro’.
+La cascada forma parte del río Blanco y posee un ecosistema diverso en cuanto a flora con agua cristalina y sin contaminación, ya que se forma de todos los afluentes que se encuentran en los páramos del cantón.
+El salto es aproximadamente de unos 20 metros y al pie de la misma se puede sentir un clima más cálido del entorno.
+<H2>Distracción y naturaleza en Baños</H2>
+Baños es el cantón más concurrido, no solo por sus atractivos turísticos, sino también por la religiosidad y gastronomía alternativa.
+El Pailón del Diablo es uno de los atractivos naturales que tiene este cantón y ha sido reconocido como alternativa de turismo seguro.
+Este paraje ahora incluso cuenta con paseos nocturnos para lo cual han implementado iluminación de la cascada.
+Se contempla un tour que inicia en el centro de Baños en una chiva y de ahí parten hasta la parroquia Río Verde en donde se encuentra el Pailón del Diablo.
+Ya en el lugar los turistas podrán disfrutar de una caminata de alrededor de 10 minutos, para ello contarán con un guía y el equipo necesario para evitar cualquier tipo de inconveniente.
+ 
+
+       
+    </BODY>  
+
+</HTML>
+<h<html>
+<head>
+<title>menu</title>
+</head>
+<body bgcolor="504F45">
+<BODY text="black">
+<TABLE border=4 width= 100% bgcolor= "yellow">
+    <TR ><TD><A href="cuerpo.html"TARGET="cuerpo">Inicio</A>
+    <TR><TD><A href="turismo.html" TARGET="cuerpo">Informacion</A>
+	<TR><TD><A href="historia.html" TARGET="cuerpo">Historia</A>
+	<TR><TD><A href="comida.html" TARGET="cuerpo">Gastronomia</A>
+	<TR><TD><A href="Lugares.html" TARGET="cuerpo">Alternativas</A>
+	<TR><TD><A href="Ambato.html" TARGET="cuerpo">Ambato</A>
+	<TR><TD><A href="Ba&ntilde;os.html" TARGET="cuerpo">Baños</A>
+	<TR><TD><A href="cevallos.html" TARGET="cuerpo">Cevallos</A>
+		<TR><TD><A href="creditos.html" TARGET="cuerpo">Creditos</A>
+</TABLE>
+
+</body>
+</html>
+<HTML>  
+    <HEAD>
+
+       <TITLE> Turismo </TITLE>
+    </HEAD>
+	<BODY text="white">
+	<body bgcolor="504F45">
+	<H1 align=center>Tungurahua es el punto central del país, equidistante de la Costa, Sierra Sur, Sierra Norte y Amazonía.</H1>
+Es una provincia de gran movimiento comercial, lo cual se evidencia en las ciudades de Ambato y Peliléo, además tiene un gran atractivo turístico especialmente la ciudad de Baños, en donde se puede sentir la cercanía a la Amazonía junto a hermosas cascadas, piscinas de aguas termales y la imponente vista del volcán nevado Tungurahua.
+La provincia cuenta con grandes plantaciones de árboles frutales, que en la estación de producción llenan los campos de vistosos colores por doquier. Lagunas aptas para la pesca deportiva y actividades de campimg y trekking, entre otros atractivos.
+Limita al norte con las provincias de Cotopaxi y Napo; al sur con  Chimborazo y Morona Santiago; al este con Napo y Pastaza; y al oeste con Cotopaxi y Bolívar. Tiene una superficie de 3.200 km2.
+La actividad comercial de la provincia esta dedican a la agricultura y ganadería, turismo, comercio, industria textil: confección de cuero, vestido, calzado, entre otras.
+Esta provincia se caracteriza por las fiestas, flores, frutas y las artesanías. Los productos agrícolas más importantes de la provincia son papa, cebolla colorada, fréjol, haba, lechuga, maíz, tomate y una gran variedad de frutas entre ellas: claudia, durazno, mandarina, manzana, mora, pera, abridor (guaytambo), etc.
+Tiene notable importancia la producción artesanal, dedicada, entre otras labores, a la elaboración de tapices (Salasaca), la curtiembre (Píllaro, Quisapincha, Picaihua), y a las cobijas y los ponchos (Quero).
+En cuanto a las fiestas más importantes de esta provincia es la fiesta de las Flores y las Frutas de Ambato que se celebra en febrero y marzo en la época de Carnaval donde se realizan varios desfiles, comparsas y corridas de toros.
+<br><IMG width = 50% src="img tun/vive.png" hspace=200>
+ 
+
+       
+    </BODY>  
+
+</HTML>
+
+<html>
+<head>
+<title>Ambato</title>
+</head>
+	<BODY text="white">
+	<body bgcolor="504F45">
+<H1 align=center>¿Que hacer en Ambato?</H1>
+<IMG width = 50% src="img tun/catedral.jpg" hspace=250>
+<br>
+<br><B>La Providencia:</B>
+<br>Su inconfundible estilo gótico la constituye en Patrimonio Cultural de la ciudad. Destruida parcialmente en el terremoto de 1949, fue restaurada respetando su diseño original.
+<br><B>Parque Montalvo:</B>
+<br>Fue construido a partir de 1905 en el lugar que ocupaba la Plaza Mayor o Plaza Matríz con un importante aporte del Gobierno de Eloy Alfaro. El diseño general del Parque fue realizado por el Arquitecto Pedro Durini y la construcción estuvo a cargo del señor Alfonso Troya.
+<br><B>La Catedral:</B> 
+<br>La capilla original se construyó en 1698 cuando luego del terremoto la ciudad se asentó en ese lugar, fue un chozón grande con cubierta de paja y que poco a poco fue creciendo con las contribuciones de los priostes y las fiestas hasta ser reemplazada por otra iglesia en el mismo sitio en el que está la actual Catedral.
+<br><B>Casa de Montalvo:</B> 
+<br>Es la institución más representativa de la ciudad localizada en la esquina norte de la Plaza Mayor y edificada en un solar que perteneció a la Señora María López Naranjo, que fue vendido a Don Marcos Montalvo Oviedo un progresista comerciante guaneño casado con Doña Josefa Fiallos, padres de Don Juan Montalvo. La casa que se edificó es la hoy existente en la esquina de las calles Bolívar y Montalvo, en ella desde 1927 hasta 1984 funcionó la biblioteca de Autores Nacionales y desde 1988 hasta la actualidad funciona el Museo Montalvino en el cual se exhiben valiosas piezas museables que dan fé de la vida y obra del ilustre escritor ambateño.
+<br><B>Casa del Portal:</B> 
+<br>Hermoso regazo de la arquitectura colonial del siglo XIX, esta edificación construida en 1900, constituye uno de los elementos fundamentales del centro histórico de Ambato. Sus aposentos ubicados frente al Parque Montalvo, serán escenario del Museo de la Provincia de Tungurahua.
+<br><B>Quinta de Juan Montalvo:</B> 
+<br>Con una extensión de 1 hectárea y con más de 200 años de antigüedad esta Quinta fue uno de los lugares más queridos por el “Cervantes de América”, donde se inspiró para escribir algunas de sus grandes obras.
+<br><B>Quinta Atocha de Juan León Mera:</B> 
+<br>Tiene un típico estilo español, la construcción data del año 1874, con una extensión de 5 hectáreas, declarada Patrimonio Histórico Nacional. Tiene como atractivo no solamente la estructura arquitectónica, sino también el maravilloso entorno botánico con 200 especies vegetales entre nativas e introducidas y otras endémicas, únicas en Latinoamérica. Entre los gruesos muros de adobe y bahareque se conservan los recuerdos, manuscritos, pinturas y fotografías del insigne novelista Juan León Mera que hablan de su gran amor por el arte y la patria al legarnos para la posteridad el símbolo de nacionalidad Ecuatoriana, el Himno Nacional.
+<br><B>Jardín Botánico La Liria:</B> 
+<br>Esta área comprende las propiedades que pertenecían a las familias de Luis A Martínez (La Liria) y Juan León Mera (Atocha) posee una extensión de 14 hectáreas, en las cuales se conservan 200 especies de plantas vasculares y 8 especies de flora endémica de Tungurahua y del País. El ilustre Municipio de Ambato ha tomado la decisión de proteger y recuperar estas áreas por el contenido histórico que poseen y por la formación de un gran ecosistema, convirtiéndose en el pulmón de la ciudad.
+<br><B>Ruta de las 7 cochas Pilahuin Pucara:</B>
+<br>Se puede realizar ciclismo, camping, giras de observación de hermoso paisaje de plantas nativas, etc.
+<br><B>Sendero Ecológico:</B> 
+<br>Es más utilizado por las personas que viven en el lugar para sus labores de agricultura y para visitar de vez en cuando; con especies endémicas de la zona, de parajes con pajonales, desértico que de a poco está cambiando por la mano del hombre y la agricultura en la zona para abastecer las necesidades de las grandes ciudades.
+<br><B>Paisaje Andino:</B> 
+<br>En el Barrio San Pablo se halla a 2,52 Kilómetros del Parque Central de la Parroquia de Cunchibamba; entre tanto el Barrio San José de Pucarumi está a 2,47 Kilómetros y el Barrio San Rafael está a 2,48 Kilómetros del punto inicial antes mencionado.
+<br><B>Ciclo Paseo Caminatas Familiares:</B> 
+<br>Su nombre se debe a que éste barrio tienen como patrono a San Vicente Ferrer y no a que haya existido una hacienda con éste nombre (como ocurre en otros barrios), claro que a su alrededor se hallan haciendas.
+<br><B>Iglesia Parroquial:</B> 
+<br>Iglesia Colonial construida a base de piedra tallada y trabajada pegada solo con cal.
+<br><B>Casa de la Cultura Ecuatoriana Benjamín Carrión:</B> 
+<br>Se realizan representaciones teatrales, proyecciones cinematográficas, exposiciones de artes visuales, actividades comunitarias, entre otros.
+<br><B>Santuario de la Virgen del Tránsito:</B> 
+<br>En el siglo XVII, el pueblito indígena de San Andrés, de fundación española, estuvo asentado en el territorio donde hoy se encuentra el barrio Palahua.
+
+</body>
+</html>	
+<html>
+<head>
+<title>Baños</title>
+	<BODY text="white">
+	<body bgcolor="504F45">
+</head>
+<H1 align=center>¿Que hacer en Baños?</H1>
+<IMG width = 50% src="img tun/Baños.jpg" hspace=250>
+<Br>
+<Br><B>Bungee Jumping:</B>
+<Br>Una de las actividades más populares que hacer en Baños es el puenting. A diferencia de otros destinos populares por los deportes de aventura, aquí no es necesario hacer reserva (excepto en temporada alta). Simplemente acércate a uno de los dos puentes habilitados para esta actividad y empieza tu aventura. El puente de Río Blanco tiene 35 metros de altura, pero la joya de la corona es el puente de San Francisco. Sus 120 metros de altura te aseguran una experiencia única.
+<Br><B>El Columpio de la Casa del Árbol:</B>
+<Br>Haz la prueba, busca en Google “columpio increíble”. La gran mayoría de fotos que te mostrará son de un columpio situado al borde del abismo, con un volcán de fondo. Es el famoso Columpio de la Casa del Árbol de Baños. Hoy en día es tan popular que lo más probable es que tengas que hacer cola para probarlo, pero aun así vale la pena. Cuando el volcán Tungurahua entra en erupción, ese es el lugar más épico para verlo.
+<Br><B>Las cascadas de Baños:</B>
+<Br>Otro de los grandes atractivos e imprescindibles que hacer en Baños es la “Ruta de las Cascadas”. Agoyàn, Guamal, Puertas del Cielo o San Pedro son algunas de ellas. Pero, si solo pudieses elegir una, no lo dudes: visita el Pailón del Diablo. Además de ser una de las más espectaculares, te ofrece la posibilidad de verla desde muchos puntos de vista diferentes e incluso entrar en su interior ¡Sin duda algo obligatorio que ver en Baños!
+<Br><B>Ruta en bicicleta:</B>
+<Br>Otra forma muy popular de recorrer las cascadas de Baños, en vez de en el autobús público que cubre una ruta paralela, es en bicicleta. No solo te permite hacer la ruta totalmente a tu aire, sino que te da la oportunidad de conocer rincones que con el transporte público te sería imposible. El recorrido más popular es el que conecta Baños de Agua Santa con Río verde, aproximadamente 20 kilómetros. Si te apetece probar esta experiencia pero no estás seguro de si serás capaz, tenemos 2 buenas noticias. El 70% de la ruta es bajada y al llegar a Río Verde hay camionetas que llevarán tu bicicleta de vuelta a Baños por 1’5$.
+<Br><B>Desciende haciendo Canyoning:</B>
+<Br>Has recorridos las cascadas de la zona en bicicleta, has bajado hasta el Pailón del Diablo y te has puesto detrás de su espectacular caída de agua ¿Te atreves a ir un poco más allá? El Canyoning es un deporte de aventura ideal que hacer en Baños dado su gran cantidad de cascadas. Ataviado con un casco, arneses de seguridad y calzado especial para evitar el deslizamiento, podrás meterte de lleno en impresionantes saltos de agua y descender a través de ellos. Es una activad que requiere gran valentía ya que, una vez empieces, no podrás volver atrás hasta acabar y deberás enfrentarte a descensos de hasta 35 metros.
+</body>
+</html>	
+<html>
+<head>
+<title>cabecera</title>
+</head>
+<BODY background="img tun/volcan1.jpg"
+
+</body>
+</html>
+<html>
+<head>
+<title>Cevallos</title>
+	<BODY text="white">
+	<body bgcolor="504F45">
+</head>
+<H1 align=center>¿Que hacer en Cevallos?</H1>
+<IMG width = 50% src="img tun/cevallos.jpg" hspace=250>
+<Br>El Cantón Cevallos fue llamado en la antigüedad Capote Bajo y fue asiento de la cultura Panzaleo. De esta cultura se han hallado objetos arqueológicos de cerámica en la zona de Andignato-Pachanlica.
+El 29 de abril de 1892 por Acuerdo del Concejo Municipal de Ambato se crea la parroquia de Cevallos en el sector que antes pertenecía a la parroquia Tisaleo.
+Cevallos fue cantonizado el 13 de mayo de 1986.
+Cevallos se encuentra situado en el centro sur de la provincia de Tungurahua, a 14 km de la ciudad de Ambato, al sur occidente.Cevallos fue llamado en la antigüedad Capote Bajo y fue asiento de la cultura Panzaleo. De esta cultura se han hallado objetos arqueológicos de cerámica en la zona de Andignato-Pachanlica.
+<H2><B>Lugares turísticos de Cevallos</B></H2>
+<B>La  Cascada de Jujún:</B>
+<Br>Es el lugar perfecto para los amantes del vértigo ya que aquí existen paredes verticales para escalinata al igual que en la quebrada de Querochaca.
+<Br><B>Los Huertos Frutales:</B>
+Dan muestra de diferentes variedades de claudia, durazno, pera y manzana que se produce en esta tierra. Estas frutas son exquisitas y se las puede saborear mientras se observa el hermoso paisaje.
+<Br><B>Estación del tren:</B>
+<Br>Actualmente, la remodelada estación del tren es un nuevo punto de encuentro para turistas que llegan a visitar el cantón vía férrea. Debido a que la industria del calzado ha tomado repunte en el cantón Cevallos, es posible comprar zapatos de excelente calidad en varios puntos de la ciudad.
+</body>
+</html>	
+<html>
+<head>
+<title>Cevallos</title>
+	<BODY text="white">
+	<body bgcolor="504F45">
+</head>
+<H1 align=center>Los sabores de Tungurahua</H1>
+<IMG width = 50% src="img tun/comida.jpg" hspace=250>
+<Br>
+<Br>Tungurahua es una de las provincias andinas del país que lleva consigo una gran tradición gastronómica, de hecho, cada uno de sus cantones tiene platillos que los identifican y manifiestan su cultura. 
+Comencemos por Ambato, la capital de Tungurahua y que cada año recibe visitantes por su popular Fiesta de las Flores y las Frutas, en esta ciudad puedes disfrutar del caldo de 31, caldo de librillo o mondongo, los quimbolitos y los chinchulines. En Mocha, los cuyes y conejos asados son toda una tradición; en Cevallos no puedes dejar de probar la fritada, el yahuarlocro y el exquisito caldo de patas. Para no mencionar cada uno de los cantones, terminamos con Patate, el lugar de las arepas más deliciosas de Tungurahua con la chicha de uva y los vinos artesanales. 
+La agricultura es uno de los mayores motores de la provincia, siendo el cultivo de papas una de las mayores fuentes de empleo para sus habitantes. El turismo es otro de los factores importantes de Tungurahua, la capital de aventuras de Ecuador, Baños de Agua Santa debe estar en tu lista de próximos viajes junto con un recorrido por el Pailón del Diablo. 
+Continuando con las delicias de la provincia andina tenemos las empanadas de morocho, el caldo de gallina, el caldo de morcilla, los tamales, las papas con cuero, la gallina asada y el ceviche de palmito. No podemos dejar de mencionar el típico llapingacho, plato de tortillas de papas, acompañado de chorizo, huevo frito, ensalada, aguacate y, en ocasiones, trozos de cerdo. 
+Tungurahua también te ofrece las tradicionales melcochas que consisten en dulces de panela y los panes de Pinllo, una verdadera delicia que guarda su secreto en los hornos de leña y la manteca de cerdo que se usa en su preparación. 
+<Br><B>Comidas Típicas</B>
+<Br><B>Llapingachos:(Ambato) </B>
+<Br>Es el plato tradicional de Ambato, las tortillas o llapingachos van acompañados de chorizo y huevo frito. Es la comida más vendida en el Mercado Central de Ambato.
+<IMG width = 50% src="img tun/llapingacho.jpg" hspace=250>
+<Br><B>Arepas de Zapallo:(Patate) </B>
+<Br>Trabajadas directamente por personas del lugar de una forma artesanal, mezclando cada ingrediente con una ceremonia familiar y una cuidadosa preparación que le da un sabor único.
+<IMG width = 50% src="img tun/arepas.jpg" hspace=250>
+<Br><B>Melcochas: (Baños) </B>
+<Br>Son dulces fabricados con panela, este producto se ha venido fabricando hace periodos atrás; es un producto que representa a Baños y se los puede disfrutar en diferentes partes.
+<Br><IMG width = 50% src="img tun/melcochas.jpg" hspace=250>
+<body>
+</html>	
